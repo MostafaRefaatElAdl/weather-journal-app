@@ -1,5 +1,5 @@
 # Weather-Journal-App
-![image](https://user-images.githubusercontent.com/90541446/167231612-ba21d689-9302-4964-896b-a902f3e9fd18.png)
+![image](https://user-images.githubusercontent.com/90541446/167232045-600a3740-0caf-46e9-b893-10d99c733254.png)
 
 an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App. using only HTML, bootstrap, Javascript and Node.
 
